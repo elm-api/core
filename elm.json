@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "FuJa0815/elm-api",
+    "name": "elm-api/core",
     "summary": "Helper for communicating with REST-APIs",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
